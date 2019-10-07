@@ -1,18 +1,11 @@
-# Examples of the Monday afternoon coding session
+# Supplementary material for the BCTP Lecture Series
+
+On this Github repository, I collect files I coded during the afternoon sessions of the BCTP Lecture Series [Machine Learning and its Applications](https://indico.desy.de/indico/event/23325/).
+
+## Monday
+In this session, we created our first feed-forward neural network that learns the xor function. We implemented the neural network in Mathematica, Keras (with tensorflow backend), and PyTorch. The files are available [here](./Monday).
+
+<img src="./Monday/example_function_torch.png" width="300px"/> <img src="./Monday/example_loss_torch.png" width="300px"/>
 
 
-## Keras example
-Run with `python Keras_Example.py`.
-
-<img src="./example_function_keras.png" width="300px"/> <img src="./example_loss_keras.png" width="300px"/>
-
-## Mathematica example
-Run the notebook `Mathematica_Example.nb`.
-
-<img src="./example_function_mathematica.png" width="300px"/> <img src="./example_loss_mathematica.png" width="300px"/>
-
-
-## PyTorch example
-Run the Jupyter notebook [PyTorch_Example.ipynb](PyTorch_Example.ipynb).
-
-<img src="./example_function_torch.png" width="300px"/> <img src="./example_loss_torch.png" width="300px"/>
+## Monday
