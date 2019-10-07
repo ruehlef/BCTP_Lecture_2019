@@ -8,4 +8,4 @@ In this session, we created our first feed-forward neural network that learns th
 <img src="./Monday/example_function_torch.png" width="300px"/> <img src="./Monday/example_loss_torch.png" width="300px"/>
 
 
-## Monday
+## Tuesday
