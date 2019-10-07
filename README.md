@@ -6,7 +6,7 @@ On this Github repository, I collect files I coded during the afternoon sessions
 In this session, we created our first feed-forward neural network that learns the xor function. We implemented the neural network in Mathematica, Keras (with tensorflow backend), and PyTorch. The files are available [here](./Monday).
 
 <center>
-<img src="./Monday/example_function_torch.png" width="300px"/>      <img src="./Monday/example_loss_torch.png" width="300px"/>
+<img src="./Monday/example_function_torch.png" width="300px"/><img src="./Monday/example_loss_torch.png" width="300px"/>
 </center>
 
 ## Tuesday
