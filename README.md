@@ -4,7 +4,7 @@
 ## Keras example
 Run with `python Keras_Example.py`.
 
-<img src="./example_function_Keras.png" width="300px"/> <img src="./example_loss_Keras.png" width="300px"/>
+<img src="./example_function_keras.png" width="300px"/> <img src="./example_loss_keras.png" width="300px"/>
 
 ## Mathematica example
 Run the notebook `Mathematica_Example.nb`.
