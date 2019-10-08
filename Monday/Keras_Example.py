@@ -37,8 +37,8 @@ rng.shuffle(all_data)
 
 # perform a train:test split of 80:20
 split_point = int(len(all_data)*0.8)
-x_train, x_test = [x[0] for x in all_data[0:split_point]], [x[0] for x in all_data[split_point+1:]]
-y_train, y_test = [[x[1]] for x in all_data[0:split_point]], [[x[1]] for x in all_data[split_point+1:]]
+x_train, x_test = [x[0] for x in all_data[0:split_point]], [x[0] for x in all_data[split_point:]]
+y_train, y_test = [[x[1]] for x in all_data[0:split_point]], [[x[1]] for x in all_data[split_point:]]
 
 
 #################################################################################################
