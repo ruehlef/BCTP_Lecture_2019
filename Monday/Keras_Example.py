@@ -25,7 +25,7 @@ rng = np.random.RandomState(seed)
 # (It is an array of arrays of the form
 # [[[x_0^0,x_1^0], y^0], [[x_0^1,x_1^1], y^1], ...]
 # The [x_0^i, x_1^i] are integers and the y^i are labels (0: unstable, 1: stable)
-hnd = open("../stability_data.txt", "r")
+hnd = open("./stability_data.txt", "r")
 all_data = eval(hnd.read())
 
 
@@ -128,6 +128,6 @@ ax.set_xlabel('x_0')
 ax.set_ylabel('x_1')
 ax.set_zlabel('y')
 
-plt.show()
+# plt.show()
 plt.savefig("./example_function.pdf", dpi=300, bbox_inches='tight')
 plt.close()
