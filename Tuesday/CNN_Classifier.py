@@ -29,7 +29,6 @@ hnd.close()
 # look at a few images
 counter = 0
 for entry in all_data:
-    break
     image = plt.imread(os.path.join('./GalaxyZoo/', entry[0] + '.jpg'))
     plt.figure()
     plt.title(get_class(entry[1:]))
