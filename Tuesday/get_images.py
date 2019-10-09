@@ -1,7 +1,3 @@
-# Go to website https://data.galaxyzoo.org and download full catalog
-# Go to http://skyserver.sdss.org/dr7/en/tools/chart/list.asp to download images
-# Use aspx, e.g. http://skyservice.pha.jhu.edu/DR7/ImgCutout/getjpeg.aspx?ra=0.0017083333333333331&dec=-10.373805555555556&scale=0.2&width=240&height=120
-
 # for downloadding images
 import requests
 import shutil
