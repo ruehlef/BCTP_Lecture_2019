@@ -2,7 +2,7 @@
 
 We impolemented an A3C reinforcement agent using [ChainerRL](https://github.com/chainer/chainerrl) v0.7.0. We connect our environment using the OpenAI gym interface.
 
-We demonstrate how the agent finds a good spin configuration for the simple problem of a [1D Ising model](https://en.wikipedia.org/wiki/Ising_model) with no ecxternal magnetic field and nearest-neighbor interactions in either the ferromagnetic or anti-ferromagnetic phase.
+We demonstrate how the agent finds a good spin configuration for the simple problem of a [1D Ising model](https://en.wikipedia.org/wiki/Ising_model) with no external magnetic field and nearest-neighbor interactions in either the ferromagnetic or anti-ferromagnetic phase.
 
 A typical output would look like this:
 
