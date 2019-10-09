@@ -15,7 +15,7 @@ NN predicting this is a spiral galaxy:
 
 <img src="./Tuesday/galaxy.png" width="300px"/> 
 
-(Image downloaded from [https://www.sdss.org](https://www.sdss.org))
+(Image source: [https://www.sdss.org](https://www.sdss.org))
 
 ## Wednesday
 In this session, we demonstrated how to code an environment that can be connected via the OpenAI gym to [ChainerRL](https://github.com/chainer/chainerrl). We illustrate how the the A3C agent finds good energy configurations for the 1D Ising model by flipping spins at any of the lattice sites. The files are available [here](./Wednesday).
