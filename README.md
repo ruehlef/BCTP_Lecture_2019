@@ -30,7 +30,7 @@ and took the actions
 ``` 
 
 ## Thursday
-In this session, we illustrate the unsupervised clustering algorithms (k-means, mean shift, DBSCAN, Birch) we discussed in class using [scikit learn](https://scikit-learn.org/stable/). The files are available [here](./Thursday).
+In this session, we illustrated different unsupervised clustering algorithms (k-means, mean shift, DBSCAN, Birch) that were discussed in class using [scikit learn](https://scikit-learn.org/stable/). The files are available [here](./Thursday).
 
 <img src="./Thursday/KMeans.png" width="600px"/>  <img src="./Thursday/MeanShift.png" width="600px"/>
 
