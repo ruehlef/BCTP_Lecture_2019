@@ -20,4 +20,4 @@ Note that the nested circles and the half-moons are identified as separate clust
 ## Birch
 Note that here no Voronoi diagram emerges for the cluster boundaries.
 
-<img src="./Birch.png" width="600px"/>
+<img src="./BIRCH.png" width="600px"/>
