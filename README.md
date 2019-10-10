@@ -34,4 +34,4 @@ In this session, we illustrate the unsupervised clustering algorithms (k-means, 
 
 <img src="./Thursday/KMeans.png" width="600px"/>  <img src="./Thursday/MeanShift.png" width="600px"/>
 
-<img src="./Thursday/DBSCAN.png" width="600px"/>  <img src="./Thursday/Birch.png" width="600px"/>
+<img src="./Thursday/DBSCAN.png" width="600px"/>  <img src="./Thursday/BIRCH.png" width="600px"/>
