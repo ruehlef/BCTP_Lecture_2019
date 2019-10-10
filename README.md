@@ -28,3 +28,10 @@ I started from
 and took the actions
 [10, 2, 3, 9, 12]
 ``` 
+
+## Thursday
+In this session, we illustrate the unsupervised clustering algorithms (k-means, mean shift, DBSCAN, Birch) we discussed in class using [scikit learn](https://scikit-learn.org/stable/). The files are available [here](./Thursday).
+
+<img src="./Thursday/KMeans.png" width="600px"/>  <img src="./Thursday/MeanShift.png" width="600px"/>
+
+<img src="./Thursday/DBSCAN.png" width="600px"/>  <img src="./Thursday/Birch.png" width="600px"/>
