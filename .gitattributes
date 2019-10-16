@@ -1,2 +1,1 @@
-[diff "nb"]
-  binary = true
+*.nb binary -diff
